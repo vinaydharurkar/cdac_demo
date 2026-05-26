@@ -1,3 +1,3 @@
 # cdac_demo
-this is my first git
-auther: vinay
+this is my first git.
+Auther: vinay
